@@ -97,8 +97,3 @@ The root agent will automatically:
 - Python 3.10+
 
 
-
-<img width="1276" height="743" alt="image" src="https://github.com/user-attachments/assets/d1da7fd5-fc3c-4e9a-8019-453e8fad7be8" />
-
-Today there is a global gemini Ai studio outage , so please consider this while considering the assessments 
-regards
